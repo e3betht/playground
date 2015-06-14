@@ -8,4 +8,8 @@ $myNumber++;
 
 echo "$myNumber";
 
+if ($anotherVar == false) {
+  echo "You should always use the identical operator with Boolean comparisons.";
+}
+
 
