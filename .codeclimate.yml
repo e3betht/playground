@@ -16,5 +16,5 @@ languages:
 # http://docs.codeclimate.com/article/166-excluding-files-folders
 #
 exclude_paths:
- - "test/*"
- - "lib/*"
+ - 'test/*'
+ - 'lib/*'
